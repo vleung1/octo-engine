@@ -1,2 +1,2 @@
 # octo-engine
-Descriptions are optional.
+Git exercises
