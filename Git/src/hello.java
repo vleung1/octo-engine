@@ -7,7 +7,9 @@ public class hello {
 		System.out.println("hello");
 		System.out.println("world");
 		System.out.println("abc123");
-		System.out.println("newbranch changes");
+		System.out.println("newbranch changes machine A");
+		System.out.println("newbranch changes machine B");
+
 	}
 
 }
